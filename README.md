@@ -70,4 +70,4 @@ The project demonstrates how to go from unstructured data to actionable insights
 
 ## ✍️ Author  
 **Divjyot Singh Suri** 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/divjyot-singh-suri)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/divjyot-singhsuri/)
