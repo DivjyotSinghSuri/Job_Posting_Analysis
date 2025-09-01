@@ -23,7 +23,7 @@ The project demonstrates how to go from unstructured data to actionable insights
   - `JobPostingQueries.sql` → SQL queries for extracting insights (skills, locations, experience levels, companies, etc.).
  
 - **Query Results:** (CSV outputs of SQL queries)  
-  - Stored in the `Query Results/` folder.  
+  - Stored in the `Query Results` folder.  
   - Examples:  
     - `top10skills.csv` → Most demanded skills  
     - `top7locations.csv` → Top job posting locations  
