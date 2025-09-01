@@ -20,7 +20,20 @@ The project demonstrates how to go from unstructured data to actionable insights
   - `JobPostingVisualised.ipynb` → Visualizations of SQL query outputs.  
 
 - **SQL Scripts:**  
-  - `JobPostingQueries.sql` → SQL queries for extracting insights (skills, locations, experience levels, companies, etc.).  
+  - `JobPostingQueries.sql` → SQL queries for extracting insights (skills, locations, experience levels, companies, etc.).
+ 
+- **Query Results:** (CSV outputs of SQL queries)  
+  - Stored in the `Query Results/` folder.  
+  - Examples:  
+    - `top10skills.csv` → Most demanded skills  
+    - `top7locations.csv` → Top job posting locations  
+    - `TopCompanies.csv` → Companies with most job openings  
+    - `TopSectors.csv` → Top hiring sectors  
+    - `LeastPostingSectors.csv` → Sectors with least postings  
+    - `Experiencelevel.csv` → Roles by experience level  
+    - `Contractype.csv` → Job postings by contract type  
+    - `Highestapplicantlocations.csv` → Locations with highest competition (200+ applicants)  
+    - `PostingsTimeline.csv` → Job postings trend over time  
 
 - **Reports:**  
   - `Visualisations.pdf` → PDF of charts and graphs summarizing insights.
