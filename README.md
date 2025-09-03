@@ -10,6 +10,12 @@ The project demonstrates how to go from unstructured data to actionable insights
 
 ---
 
+## Project Workflow
+
+<img width="768" height="80" alt="business_analyst_workflow_post_dark" src="https://github.com/user-attachments/assets/30634a5d-4af5-4982-a64c-f6b0280b8764" />
+
+---
+
 ## 📂 Files in this Repository  
 - **Datasets:**  
   - `Business_analyst_job_listings_linkedin_messy.csv` → Raw dataset with job listings.  
